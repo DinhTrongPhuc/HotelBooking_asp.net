@@ -1,0 +1,405 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header và Navigation */
+
+
+/* Section tiêu đề */
+.management-section {
+    padding: 40px 0;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form thêm đặt phòng mới */
+form .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 400px;
+}
+
+button.button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    button.button:hover {
+        background-color: #ffa500;
+    }
+
+/* Bảng quản lý đặt phòng */
+#gvBookings {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+    #gvBookings th,
+    #gvBookings td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #gvBookings th {
+        background-color: #333;
+        color: white;
+    }
+
+    #gvBookings tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    #gvBookings .edit-button,
+    #gvBookings .delete-button {
+        padding: 8px 12px;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    #gvBookings .edit-button {
+        background-color: #4CAF50;
+    }
+
+    #gvBookings .delete-button {
+        background-color: #f44336;
+    }
+
+    #gvBookings .edit-button:hover {
+        background-color: #45a049;
+    }
+
+    #gvBookings .delete-button:hover {
+        background-color: #e53935;
+    }
+
+/* Footer */
+#main-footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+    #main-footer p {
+        margin: 0;
+    }
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main Styling */
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+/*Utility Classes*/
+.container {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
+.text-primary {
+    color: #f7c08a;
+}
+
+.lead {
+    font-size: 20px;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        background: #f7c08a;
+        color: #333;
+    }
+
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-primary {
+    background: #f7c08a;
+    color: #333;
+}
+
+.clr {
+    clear: both;
+}
+
+
+/* Navbar */
+#navbar {
+    background: #333;
+    color: #fff;
+    overflow: auto;
+}
+
+    #navbar a {
+        color: #fff;
+    }
+
+    #navbar h1 {
+        float: left;
+        padding-top: 20px;
+    }
+
+    #navbar ul {
+        list-style: none;
+        float: right;
+    }
+
+        #navbar ul li {
+            float: left;
+        }
+
+            #navbar ul li a {
+                display: block;
+                padding: 20px;
+                text-align: center;
+            }
+
+                #navbar ul li a:hover,
+                #navbar ul li a.current {
+                    background: #444;
+                    color: #f7c08a;
+                }
+/* showcase */
+#showcase {
+    background: url('/assets/img2/showcase.jpg') no-repeat center center;
+    background-size: cover;
+    height: 600px;
+}
+
+
+    #showcase .showcase-content {
+        color: #fff;
+        text-align: center;
+        padding-top: 170px;
+    }
+
+        #showcase .showcase-content h1 {
+            font-size: 60px;
+            line-height: 1.2em;
+        }
+
+        #showcase .showcase-content p {
+            padding-bottom: 20;
+            line-height: 1.7em;
+        }
+/*Home-info*/
+#home-info {
+    height: 400px;
+}
+
+    #home-info .info-img {
+        float: left;
+        width: 50%;
+        background: url('/assets/img2/info.jpg') no-repeat center center;
+        background-size: cover; /* ??m b?o toàn b? ?nh hi?n th? */
+        min-height: 100%;
+    }
+
+    #home-info .info-content {
+        float: right;
+        width: 50%;
+        height: 100%;
+        text-align: center;
+        padding: 50px 30px;
+        overflow: hidden;
+    }
+
+        #home-info .info-content p {
+            padding-bottom: 30px;
+        }
+/*Features*/
+.box {
+    float: left;
+    width: 20%;
+    padding: 50px;
+    text-align: center;
+}
+
+    .box i {
+        margin-bottom: 10px;
+    }
+
+.employee-management-section {
+    padding: 40px 0;
+}
+
+.employee-management-section .section-title {
+    text-align: center;
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form thêm nhân viên mới */
+form .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 400px;
+}
+
+button.button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button.button:hover {
+    background-color: #ffa500;
+}
+
+/* Bảng quản lý nhân viên */
+#gvEmployees {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+#gvEmployees th,
+#gvEmployees td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#gvEmployees th {
+    background-color: #333;
+    color: white;
+}
+
+#gvEmployees tr:hover {
+    background-color: #f1f1f1;
+}
+
+#gvEmployees .edit-button,
+#gvEmployees .delete-button {
+    padding: 8px 12px;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#gvEmployees .edit-button {
+    background-color: #4CAF50; /* Xanh lá cho nút sửa */
+}
+
+#gvEmployees .delete-button {
+    background-color: #f44336; /* Đỏ cho nút xóa */
+}
+
+#gvEmployees .edit-button:hover {
+    background-color: #45a049; /* Xanh lá đậm khi hover */
+}
+
+#gvEmployees .delete-button:hover {
+    background-color: #e53935; /* Đỏ đậm khi hover */
+}
+/*Footer*/
+#main-footer {
+    text-align: center;
+    background-color: #444;
+    color: #fff;
+    padding: 20px;
+}

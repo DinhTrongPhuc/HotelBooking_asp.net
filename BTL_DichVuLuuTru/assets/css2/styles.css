@@ -1,0 +1,279 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main Styling */
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+/*Utility Classes*/
+.container {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
+.text-primary {
+    color: #f7c08a;
+}
+
+.lead {
+    font-size: 20px;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        background: #f7c08a;
+        color: #333;
+    }
+
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-primary {
+    background: #f7c08a;
+    color: #333;
+}
+
+.clr {
+    clear: both;
+}
+
+
+/* Navbar */
+#navbar {
+    background: #333;
+    color: #fff;
+    overflow: auto;
+}
+
+    #navbar a {
+        color: #fff;
+    }
+
+    #navbar h1 {
+        float: left;
+        padding-top: 20px;
+    }
+
+    #navbar ul {
+        list-style: none;
+        float: right;
+    }
+
+        #navbar ul li {
+            float: left;
+        }
+
+            #navbar ul li a {
+                display: block;
+                padding: 20px;
+                text-align: center;
+            }
+
+                #navbar ul li a:hover,
+                #navbar ul li a.current {
+                    background: #444;
+                    color: #f7c08a;
+                }
+/* showcase */
+#showcase {
+    background: url('/assets/img2/showcase.jpg') no-repeat center center;
+    background-size: cover;
+    height: 600px;
+}
+
+
+    #showcase .showcase-content {
+        color: #fff;
+        text-align: center;
+        padding-top: 170px;
+    }
+
+        #showcase .showcase-content h1 {
+            font-size: 60px;
+            line-height: 1.2em;
+        }
+
+        #showcase .showcase-content p {
+            padding-bottom: 20;
+            line-height: 1.7em;
+        }
+/*Home-info*/
+#home-info {
+    height: 400px;
+}
+
+    #home-info .info-img {
+        float: left;
+        width: 50%;
+        background: url('/assets/img2/info.jpg') no-repeat center center;
+        background-size: cover; /* ??m b?o toàn b? ?nh hi?n th? */
+        min-height: 100%;
+    }
+
+    #home-info .info-content {
+        float: right;
+        width: 50%;
+        height: 100%;
+        text-align: center;
+        padding: 50px 30px;
+        overflow: hidden;
+    }
+
+        #home-info .info-content p {
+            padding-bottom: 30px;
+        }
+/*Features*/
+.box {
+    float: left;
+    width: 20%;
+    padding: 50px;
+    text-align: center;
+}
+
+    .box i {
+        margin-bottom: 10px;
+    }
+/*Footer*/
+#main-footer {
+    text-align: center;
+    background-color: #444;
+    color: #fff;
+    padding: 20px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #ff3737; /* Deep orange */
+}
+
+    a:hover {
+        color: #d84315; /* Darker orange */
+    }
+
+
+/* Section Title */
+.section-title {
+    font-size: 2.5em;
+    text-align: center;
+    color: #000000; /* Vibrant orange */
+    margin: 25px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* Room Section */
+.room-section {
+    padding: 50px;
+    background-color: #efebe9; /* Light tan */
+}
+
+.room-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+/* Room Card */
+.room-card {
+    background-color: #fcfcfc; /* White card */
+    border: 2px solid #000000; /* Light brown border */
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .room-card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+    }
+
+.room-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.room-title {
+    font-size: 1.6em;
+    color: #4e342e; /* Dark brown */
+    margin: 15px 0 5px;
+}
+
+.room-price {
+    font-size: 1.3em;
+    color: #6d4c41; /* Brown */
+}
+
+.room-status {
+    color: #388e3c; /* Green for available */
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Button Style */
+.order {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #faa45e; /* Bright orange */
+    color: #ffffff; /* White text */
+    font-weight: bold;
+    border-radius: 8px;
+    margin: 15px 0 20px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+    .order a {
+        color: #fce303;
+    }
+
+    .order:hover {
+        background-color: #6d3a2a; /* Darker orange */
+    }
+
+
