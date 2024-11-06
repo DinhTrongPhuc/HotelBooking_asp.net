@@ -9,12 +9,18 @@ namespace BTL_DichVuLuuTru
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+                ShowList();
+        }
+
+        public void ShowList()
+        {
             if (!IsPostBack)
             {
                 LoadBookingData();
                 LoadEmployeeData();
             }
         }
+
 
         private void LoadBookingData()
         {
@@ -26,6 +32,9 @@ namespace BTL_DichVuLuuTru
 
         protected void btnAddBooking_Click(object sender, EventArgs e)
         {
+            string maxacnhan = Maxacnhan.Text;
+            if (maxacnhan == "SHU20")
+            {
             // Tạo đối tượng Booking mới từ form nhập liệu
             var booking = new Booking
             {
@@ -43,6 +52,11 @@ namespace BTL_DichVuLuuTru
 
             // Tải lại dữ liệu
             LoadBookingData();
+            }
+            else
+            {
+                Response.Write("<script>alert('Ma Xac Nhan Khong Dung không đúng!');</script>");
+            }
         }
 
         protected void gvBookings_RowEditing(object sender, GridViewEditEventArgs e)
@@ -174,7 +188,7 @@ namespace BTL_DichVuLuuTru
     }
 }
 
-    // Class đại diện cho thông tin đặt phòng
+    // Class cho danh sách đặt phòng
     public class Booking1
     {
         public string FullName { get; set; }
@@ -183,6 +197,7 @@ namespace BTL_DichVuLuuTru
         public DateTime CheckInDate { get; set; }
         public string RoomType { get; set; }
     }
+//class cho danh sách nhân viên
 public class Employee
 {
     public string EmployeeName { get; set; }

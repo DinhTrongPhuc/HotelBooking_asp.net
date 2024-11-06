@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\QuanLyDatPhong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:BTL_DichVuLuuTru\\QuanLyDatPhong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangDatPhong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:BTL_DichVuLuuTru\\TrangDatPhong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangDichVu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:BTL_DichVuLuuTru\\TrangDichVu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|d:\\vsc_cpp\\wcb\\web_hotelbooking\\btl_dichvuluutru\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:btl_dichvuluutru\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|d:\\vsc_cpp\\wcb\\web_hotelbooking\\btl_dichvuluutru\\trangphong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:btl_dichvuluutru\\trangphong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:BTL_DichVuLuuTru\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|d:\\vsc_cpp\\wcb\\web_hotelbooking\\btl_dichvuluutru\\quanlydatphong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:btl_dichvuluutru\\quanlydatphong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|d:\\vsc_cpp\\wcb\\web_hotelbooking\\btl_dichvuluutru\\quanlydatphong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:btl_dichvuluutru\\quanlydatphong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|d:\\vsc_cpp\\wcb\\web_hotelbooking\\btl_dichvuluutru\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:btl_dichvuluutru\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|d:\\vsc_cpp\\wcb\\web_hotelbooking\\btl_dichvuluutru\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C71CEB1-3E0C-457A-8CCF-C18CB45DAD65}|BTL_DichVuLuuTru\\BTL_DichVuLuuTru.csproj|solutionrelative:btl_dichvuluutru\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,49 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TrangDichVu.aspx",
-              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangDichVu.aspx",
-              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\TrangDichVu.aspx",
-              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangDichVu.aspx",
-              "RelativeToolTip": "BTL_DichVuLuuTru\\TrangDichVu.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T04:46:58.748Z",
+              "Title": "QuanLyDatPhong.aspx.cs",
+              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\QuanLyDatPhong.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\QuanLyDatPhong.aspx.cs",
+              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\QuanLyDatPhong.aspx.cs",
+              "RelativeToolTip": "BTL_DichVuLuuTru\\QuanLyDatPhong.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:20:25.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TrangPhong.aspx",
-              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangPhong.aspx",
-              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\TrangPhong.aspx",
-              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangPhong.aspx",
-              "RelativeToolTip": "BTL_DichVuLuuTru\\TrangPhong.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T04:45:58.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx",
-              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\Login.aspx",
-              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx",
-              "RelativeToolTip": "BTL_DichVuLuuTru\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T02:12:41.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "QuanLyDatPhong.aspx",
               "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\QuanLyDatPhong.aspx",
               "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\QuanLyDatPhong.aspx",
@@ -80,20 +59,59 @@
               "RelativeToolTip": "BTL_DichVuLuuTru\\QuanLyDatPhong.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T02:09:46.427Z",
+              "WhenOpened": "2024-11-06T07:20:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\Login.aspx.cs",
+              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx.cs",
+              "RelativeToolTip": "BTL_DichVuLuuTru\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:20:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx",
+              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\Login.aspx",
+              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\Login.aspx",
+              "RelativeToolTip": "BTL_DichVuLuuTru\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T07:19:33.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TrangDatPhong.aspx",
-              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangDatPhong.aspx",
-              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\TrangDatPhong.aspx",
-              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangDatPhong.aspx",
-              "RelativeToolTip": "BTL_DichVuLuuTru\\TrangDatPhong.aspx",
+              "Title": "TrangPhong.aspx",
+              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangPhong.aspx",
+              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\TrangPhong.aspx",
+              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangPhong.aspx",
+              "RelativeToolTip": "BTL_DichVuLuuTru\\TrangPhong.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T02:09:40.469Z",
+              "WhenOpened": "2024-11-06T07:18:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChu.aspx",
+              "DocumentMoniker": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangChu.aspx",
+              "RelativeDocumentMoniker": "BTL_DichVuLuuTru\\TrangChu.aspx",
+              "ToolTip": "D:\\vsc_cpp\\WCB\\Web_HotelBooking\\BTL_DichVuLuuTru\\TrangChu.aspx",
+              "RelativeToolTip": "BTL_DichVuLuuTru\\TrangChu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T06:59:13.213Z",
               "EditorCaption": ""
             }
           ]

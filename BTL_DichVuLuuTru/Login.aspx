@@ -96,7 +96,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="login-container">
-            <h2>Đăng Nhập</h2>
+            <h2>Đăng Nhập Với Tư Cách Quản Lý</h2>
             <div class="form-group">
                 <label for="txtUsername">Tên Đăng Nhập</label>
                 <asp:TextBox ID="txtUsername" runat="server" required="true"></asp:TextBox>

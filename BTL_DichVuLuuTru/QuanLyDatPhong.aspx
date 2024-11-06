@@ -102,6 +102,9 @@
                 <asp:ListItem Value="Phòng Sang">Phòng Sang</asp:ListItem>
                 <asp:ListItem Value="PremiumRoom">Phòng Cao Cấp</asp:ListItem>
             </asp:DropDownList><br />
+
+                    <asp:TextBox ID="Maxacnhan" runat="server" Placeholder="Mã Xác Nhận: SHU20" required="true"></asp:TextBox><br />
+
             <asp:Button ID="btnAddBooking" runat="server" Text="Thêm Đặt Phòng" OnClick="btnAddBooking_Click" CssClass="button" /><br /><br />
 
             <!-- GridView quản lý đặt phòng -->

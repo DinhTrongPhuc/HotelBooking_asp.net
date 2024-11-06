@@ -17,10 +17,10 @@ namespace BTL_DichVuLuuTru
         {
             string userNameText = txtUsername.Text;
             string passwordText = txtPassword.Text;
-
+            
             if (userNameText == "a" && passwordText == "b")
             {
-                Response.Redirect("TrangChu.aspx");
+                Response.Redirect("QuanLyDatPhong.aspx");
             }
             else
             {

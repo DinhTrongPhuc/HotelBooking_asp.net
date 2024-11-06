@@ -21,7 +21,7 @@
                 <li><a href="TrangDatPhong.aspx">Đặt Phòng</a></li>
                 <li><a href="TrangDichVu.aspx">Dịch Vụ</a></li>
                 <li><a href="TrangLienHe.aspx">Liên Hệ</a></li>
-                <li><a href="QuanLyDatPhong.aspx">Quản Lý</a></li>
+                <li><a href="Login.aspx">Quản Lý</a></li>
             </ul>
             </div>
         </nav>
