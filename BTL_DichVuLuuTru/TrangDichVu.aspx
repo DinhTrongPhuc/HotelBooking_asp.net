@@ -6,7 +6,28 @@
 
     <title>Chillies | Dịch Vụ</title>
     <link href="assets/css1/Dịch vụ.css?v=2" rel="stylesheet" type="text/css" />
+    <style>
+        /* Tạo bố cục grid */
+/*.services-grid {
+    display: grid;
+    gap: 20px;*/ /* Khoảng cách giữa các phần tử */
+/*}*/
 
+/* Bố cục 2 cột cho thiết bị di động */
+/*@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}*/
+
+/* Bố cục 3 cột cho desktop */
+/*@media (min-width: 769px) {
+    .services-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}*/
+
+    </style>
 
 </head>
 <body>
@@ -101,6 +122,7 @@
                     <p>Chillies cung cấp dịch vụ giặt ủi nhanh chóng và khu vực giữ hành lý miễn phí. Dịch vụ phòng hoạt động 24/7 để đảm bảo sự tiện nghi tối đa cho du khách trong suốt thời gian lưu trú.</p>
                 </div>
             </div>
+
         </div>
     </section>
     <footer id="main-footer">

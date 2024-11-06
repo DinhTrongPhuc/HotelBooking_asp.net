@@ -6,7 +6,27 @@
 <head runat="server">
     <title>Chillies | Phòng nghỉ</title>
         <link href="assets/css2/styles.css" rel="stylesheet" type="text/css" />
+    <style>
+                /* Tạo bố cục grid */
+.services-grid {
+    display: grid;
+    gap: 20px;  Khoảng cách giữa các phần tử 
+}
 
+/* Bố cục 2 cột cho thiết bị di động */
+@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Bố cục 3 cột cho desktop */
+@media (min-width: 769px) {
+    .services-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
